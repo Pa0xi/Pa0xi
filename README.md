@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm <a href="https://instagram.com/pa0xi" target="_blank">Mouaad MAGRI</a> 👋
+  Hi there, I'm <a href="https://instagram.com/mouuuuu3ad" target="_blank">Mouaad MAGRI</a> 👋
 </h1>
 
 <p align="center">
