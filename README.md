@@ -81,4 +81,4 @@
 - 💬 Alias: **pa0xi**
 - 🧠 I love clean architecture & well-structured code
 - 🚀 Dream big, code bigger
-- 📷 I am a good photographer
+- 📷 I am a good photographer
